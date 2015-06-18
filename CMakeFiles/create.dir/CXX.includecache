@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/MiaojunLi/Downloads/第三弹/project/src/main.cpp
+rand.h
+/Users/MiaojunLi/Downloads/第三弹/project/src/rand.h
+
+src/random_string/rand.h
+

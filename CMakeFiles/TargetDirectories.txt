@@ -1,0 +1,2 @@
+/Users/MiaojunLi/Downloads/第三弹/project/random_string/CMakeFiles/random_string.dir
+/Users/MiaojunLi/Downloads/第三弹/project/CMakeFiles/create.dir
